@@ -1,3 +1,10 @@
-.nav-logo{
+.nav-logo {
     padding-right: 20px;
+    fill: darkorchid;
+    stroke: darkorchid;
+    color: darkorchid !important;
+}
+
+.active-nav {
+    color: darkorchid !important;
 }
