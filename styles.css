@@ -37,6 +37,8 @@ footer {
 .about-container{
     display: inline-grid;
     margin: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .history-container{
@@ -45,4 +47,24 @@ footer {
 
 .stats-container{
     grid-column-start: 1;
+}
+
+.stats-title{
+    margin: 20px;
+}
+
+.info-graph-col{
+    display: flex;
+}
+
+.info-graph-col > a {
+    margin: auto;
+}
+.info-graph-col > a > img{
+    max-width: 1000px;
+    margin: auto;
+}
+
+.resources-container{
+    margin: 40px 100px 40px 100px;
 }
