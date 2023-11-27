@@ -30,9 +30,11 @@ footer {
     height: 100%;
     min-height: 100vh;
 }
-.action-plan > footer{
-   align-self: flex-end;
+
+.action-plan>footer {
+    align-self: flex-end;
 }
+
 .contact-list {
     list-style-type: none !important;
 }
@@ -103,7 +105,9 @@ footer {
     margin: auto;
 }
 
-.index-container>h3 {
+.index-container>p {
     text-align: center;
     margin: auto;
+    font-size: 24px;
+    font-style: italic;
 }
